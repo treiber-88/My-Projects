@@ -1,1 +1,1 @@
-# My-Projects
+These are my projects. Editing them is not permitted.
