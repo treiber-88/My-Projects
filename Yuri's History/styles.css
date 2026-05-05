@@ -1,0 +1,69 @@
+
+
+    
+    body{
+       background: radial-gradient(circle, #4a0072 0%, #080808 100%);
+ 
+    }
+     .general {
+        display: flex;
+        padding: 40px;
+        flex-direction: column;
+        font-family: "trebuchet MS";
+     
+
+     } 
+
+     #quote {
+        background-color: red;
+        display: flex;
+        margin-right: 300;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        
+     }
+  
+    
+    
+
+
+      
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  /*  width: 200px;
+    height: 200px;
+    margin: 18px;
+    padding: 15px;
+    border: 8px purple;
+     */  
