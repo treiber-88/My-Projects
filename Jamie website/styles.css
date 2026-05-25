@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    font-family: monospace;  
+    flex-direction: row;    
+    background-color: burlywood;
+
+}
+
+
+a#logo {
+    display: flex;
+    color: black;
+    font-size: 40px;
+    padding: 30px;
+    text-decoration: none;
+    margin-right:400px;
+    
+}
+
+a.link {
+    display: flex;
+    text-decoration: none;
+    color: red;
+    justify-content: flex-end;
+    flex-direction: row;
+    padding-top: 50px;
+    margin-left: 30px;
+
+}
+
+.sumup {
+    display: flex;
+    padding: 80px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
