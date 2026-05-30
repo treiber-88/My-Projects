@@ -34,3 +34,17 @@ a.link {
     font-family: 'Courier New', Courier, monospace;
     font-size: 25px;
 }
+
+
+#app {
+    display: flex;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+#appliancepic {
+    display: flex;
+    padding: 20px;
+    padding: blue;
+    
+}
